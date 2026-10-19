@@ -25,7 +25,7 @@ export default function Header() {
                     <div className="flex items-center gap-2">
                         <h1 className="text-xl font-bold text-primary-foreground">VTea</h1>
                         <div className="w-1.5 h-1.5 rounded-full bg-accent"></div>
-                        <span className="text-lg font-medium text-primary-foreground/80">Cafe & Trà Sữa</span>
+                        <span className="text-lg font-medium text-primary-foreground/80">Cafe & Trà Sữa SEMINAR</span>
                     </div>
                 </div>
             </div>
